@@ -3,3 +3,8 @@ aiml-ml-hyd-nov-18-batch-kk0202418 created by GitHub Classroom
 
 Lab Internal | Residency 1 
 (Internal Assignment)
+
+30-Dec-2018:
+------------
+Lab External | Residency 1 
+(External Assignment)
