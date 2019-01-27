@@ -18,3 +18,8 @@ Statistics Lab External | Residency 1
 ------------
 Lab Internal | Residency 2 
 (Internal Assignment)
+
+27-Jan-2019:
+------------
+Lab Internal | Residency 2 
+(External Assignment)
