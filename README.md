@@ -23,3 +23,11 @@ Lab Internal | Residency 2
 ------------
 Lab Internal | Residency 2 
 (External Assignment)
+
+10-Feb-2019:
+------------
+Supervised Learning Lab External | Residency 2 
+(Project 1)
+
+Statistics Lab External | Residency 2 
+(Project 2)
