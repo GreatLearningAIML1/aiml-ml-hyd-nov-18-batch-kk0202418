@@ -37,3 +37,10 @@ Statistics Lab External | Residency 2
 ------------
 Lab Internal | Residency 3 
 (Internal Assignment)
+
+24-Feb-2019:
+------------
+Lab External | Residency 3
+(Ensemble Techniques)
+(Naive Bayes)
+
