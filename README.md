@@ -48,3 +48,8 @@ Lab External | Residency 3
 ------------
 Lab Internal | Residency 4 
 (Internal Assignment)
+
+12-May-2019:
+------------
+Lab Internal | Residency 6 
+(Internal Assignment)
