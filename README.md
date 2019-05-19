@@ -53,3 +53,8 @@ Lab Internal | Residency 4
 ------------
 Lab Internal | Residency 6 
 (Internal Assignment)
+
+19-May-2019:
+------------
+Lab External | Residency 6 (Internal Assignment)
+Recommendation Systems | Residency 5 (Project)
