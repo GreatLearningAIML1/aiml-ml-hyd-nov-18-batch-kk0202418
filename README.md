@@ -58,3 +58,7 @@ Lab Internal | Residency 6
 ------------
 Lab External | Residency 6 (Internal Assignment)
 Recommendation Systems | Residency 5 (Project)
+
+29-May-2019:
+------------
+Featurization Model selection and Tuning | Residency 5 (Project)
